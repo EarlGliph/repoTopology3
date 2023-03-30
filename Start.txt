@@ -1,5 +1,3 @@
 This is file from remote Repo
 tu
 ti
-fru
-ti
